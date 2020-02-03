@@ -1,0 +1,27 @@
+{
+  "name": "nodeApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Trevor French (https://frenchtrevor.herokuapp.com)",
+  "license": "MIT",
+  "bin": {
+    "stocks": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.2.4",
+    "files": "^1.1.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.4",
+    "nodemailer": "^6.4.2",
+    "path": "^0.12.7",
+    "prompt": "^1.0.0",
+    "time-stamp": "^2.2.0"
+  }
+}
