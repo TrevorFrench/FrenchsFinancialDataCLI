@@ -19,6 +19,8 @@ This repository contains the code for French's Financial Data CLI.
   - Node.js can be installed <a href="https://nodejs.org/en/download/">here</a> if you don't already have it installed on your device
   
 # Step 4: Download the Module
+  - Module can be downloaded using ``npm install frenchsfinancialdatacli``
+  or
   - The program can be downloaded directly or by pasting the following into your command line:
 
 ``
