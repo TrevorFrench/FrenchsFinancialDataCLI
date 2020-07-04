@@ -18,10 +18,11 @@ This repository contains the code for French's Financial Data CLI.
 # Step 3: Make sure that Node.js is installed
   - Node.js can be installed <a href="https://nodejs.org/en/download/">here</a> if you don't already have it installed on your device
   
-# Step 4: Download the Module
-  - Module can be downloaded using ``npm install frenchsfinancialdatacli``
+# Step 4: Download the Package
+  - The package can be downloaded using ``npm install frenchsfinancialdatacli``
+  
   or
-  - The program can be downloaded directly or by pasting the following into your command line:
+  - The package can be downloaded directly or by pasting the following into your command line:
 
 ``
 git clone "https://github.com/TrevorFrench/FrenchsFinancialDataCLI.git"
@@ -32,3 +33,5 @@ git clone "https://github.com/TrevorFrench/FrenchsFinancialDataCLI.git"
  -If you run into issues using the "stocks" command, try installing the module gloablly using ``npm install -g frenchsfinancialdatacli``
 
 # Step 6: Follow prompts to execute successfully
+
+**NOTE:** Variables such as API key and username can be hard coded into the index.js file for quicker access.
