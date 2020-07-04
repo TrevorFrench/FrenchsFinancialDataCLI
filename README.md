@@ -29,5 +29,6 @@ git clone "https://github.com/TrevorFrench/FrenchsFinancialDataCLI.git"
 
 # Step 5: Run the Program
  - The program can be executed by navigating to the bin directory on your command line and typing ``node index.js`` or by simply typing ``stocks`` into your command line from any directory on your computer.
+ -If you run into issues using the "stocks" command, try installing the module gloablly using ``npm install -g frenchsfinancialdatacli``
 
 # Step 6: Follow prompts to execute successfully
