@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Trevor French (https://frenchtrevor.herokuapp.com)",
+  "author": "Trevor French (https://trevorfrench.com)",
   "license": "MIT",
   "bin": {
     "stocks": "./bin/index.js"
