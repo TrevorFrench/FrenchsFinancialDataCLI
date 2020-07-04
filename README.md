@@ -11,7 +11,7 @@ This repository contains the code for French's Financial Data CLI.
 
 # Step 2: Enable Less-Secure Apps
   - This program integrates with the gmail API to send notifications from your email account.
-  - In order to do this, you must enable less-secure apps (or create an App password).
+  - In order to do this, you must enable less-secure apps (or create an <a href="https://support.google.com/accounts/answer/185833?hl=en">App password</a>).
   - Go to https://myaccount.google.com/lesssecureapps
   - Press "enable less-secure apps"
   
